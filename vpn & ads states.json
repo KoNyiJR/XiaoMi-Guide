@@ -1,7 +1,7 @@
 {
-"VPN": "Off",
+"VPN": "On",
 "Msg": "Please Connect VPN.😊😊",
-"AdsType": "Admob",
+"AdsType": "startapp",
 "UnityAdsID":"4739414",
 "StartAppID":"8738612"
 }
