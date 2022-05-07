@@ -1,7 +1,10 @@
 {
 "VPN": "Off",
 "Msg": "Please Connect VPN.😊😊",
-"AdsType": "admob",
+"InterAdsType": "admob",
+"BannerAdsType":"admob",
+"Banner":"ca-app-pub-3940256099942544/6300978111",
+"Inter":"ca-app-pub-3940256099942544/1033173712",
 "UnityAdsID":"4739414",
 "StartAppID":"8738612"
 }
