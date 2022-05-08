@@ -1,8 +1,8 @@
 {
-"VPN": "On",
+"VPN": "Off",
 "Msg": "error ဖြစ်နေသဖြင့် ကျေးဇူးပြု၍\nVPN ချိတ်ပေးပါ..",
 "InterAdsType": "",
-"BannerAdsType":"admob",
+"BannerAdsType":"",
 "Banner":"ca-app-pub-3940256099942544/6300978111",
 "Inter":"ca-app-pub-3940256099942544/1033173712",
 "UnityAdsID":"4739414",
