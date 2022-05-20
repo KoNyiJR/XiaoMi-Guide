@@ -1,7 +1,7 @@
 {
-"VPN": "On",
+"VPN": "Off",
 "Msg": " ကျေးဇူးပြု၍\nVPN ချိတ်ပေးပါ..",
-"InterAdsType": "unity",
+"InterAdsType": "Off",
 "BannerAdsType":"unity",
 "Banner":"ca-app-pub-3940256099942544/6300978111",
 "Inter":"ca-app-pub-3072192219390309/8036843861",
